@@ -57,4 +57,3 @@ class TTSProcess(TTS):
         elif self.speaker == 'lj_v2':
             return self.get_audio_v2()
         return self.get_audio_v3()
-

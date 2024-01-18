@@ -24,7 +24,7 @@ pydantic_core==2.14.6
 pygame==2.5.2
 PyYAML==6.0.1
 requests==2.31.0
-silero==0.4.1
+silero @ git+https://github.com/snakers4/silero-models.git@6b0bb8a7637d791fbb7adf22c56af1c89758ff19
 sniffio==1.3.0
 soundfile==0.12.1
 starlette==0.32.0.post1
